@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\prompts\\meetingprompts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\prompts\\meetingprompts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\dtos\\invitedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\dtos\\invitedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\dtos\\summarizedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\dtos\\summarizedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|c:\\users\\erikn\\desktop\\meetingai\\meetingai_backend\\meetingai_backend\\dtos\\agendadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83E4A36-AE28-8EA7-FD9A-9764F115A4EB}|MeetingAi_Backend\\MeetingAi_Backend.csproj|solutionrelative:meetingai_backend\\dtos\\agendadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MeetingAi_Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T13:21:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\appsettings.json",
+              "RelativeToolTip": "MeetingAi_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T13:21:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InviteDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\DTOs\\InviteDTOs.cs",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\DTOs\\InviteDTOs.cs",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\DTOs\\InviteDTOs.cs",
+              "RelativeToolTip": "MeetingAi_Backend\\DTOs\\InviteDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:45:51.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingPrompts.json",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Prompts\\MeetingPrompts.json",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\Prompts\\MeetingPrompts.json",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Prompts\\MeetingPrompts.json",
+              "RelativeToolTip": "MeetingAi_Backend\\Prompts\\MeetingPrompts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T13:28:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SummarizeDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\DTOs\\SummarizeDTOs.cs",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\DTOs\\SummarizeDTOs.cs",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\DTOs\\SummarizeDTOs.cs",
+              "RelativeToolTip": "MeetingAi_Backend\\DTOs\\SummarizeDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:29:20.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Services\\AiService.cs",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\Services\\AiService.cs",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Services\\AiService.cs",
+              "RelativeToolTip": "MeetingAi_Backend\\Services\\AiService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:03:58.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgendaDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\DTOs\\AgendaDTOs.cs",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\DTOs\\AgendaDTOs.cs",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\DTOs\\AgendaDTOs.cs",
+              "RelativeToolTip": "MeetingAi_Backend\\DTOs\\AgendaDTOs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:01:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Program.cs",
+              "RelativeToolTip": "MeetingAi_Backend\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:50:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "MeetingAi_Backend\\Controllers\\AiController.cs",
+              "ToolTip": "C:\\Users\\erikn\\Desktop\\MeetingAi\\MeetingAi_Backend\\MeetingAi_Backend\\Controllers\\AiController.cs",
+              "RelativeToolTip": "MeetingAi_Backend\\Controllers\\AiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:59:09.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "MeetingAi_Backend.Controllers.AiController",
+    "Method": "GetAgenda",
+    "RelativePath": "agenda",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MeetingAi_Backend.DTOs.userRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MeetingAi_Backend.DTOs.AgendaResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MeetingAi_Backend.Controllers.AiController",
+    "Method": "GetInvite",
+    "RelativePath": "invite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MeetingAi_Backend.DTOs.userRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MeetingAi_Backend.DTOs.InviteResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MeetingAi_Backend.Controllers.AiController",
+    "Method": "GetSum",
+    "RelativePath": "summarize",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MeetingAi_Backend.DTOs.userRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MeetingAi_Backend.DTOs.SummarizeResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
